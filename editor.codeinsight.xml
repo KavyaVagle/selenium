@@ -1,0 +1,6 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="LoginPage.FileUtil" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Evive" />
+</application>
