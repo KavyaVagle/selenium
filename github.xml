@@ -3,9 +3,6 @@
     <account id="82bcf169-5f94-483b-84a8-4e48fd9a7781" name="kavya.vagle@evivehealth.com">
       <server host="github.com" />
     </account>
-    <account id="f4dd5b97-fadb-4e8f-8b44-40dd519786aa" name="kavyakrs96">
-      <server host="github.com" />
-    </account>
   </component>
   <component name="GithubSettings">
     <option name="CLONE_GIT_USING_SSH" value="true" />
